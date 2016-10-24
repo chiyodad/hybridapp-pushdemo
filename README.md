@@ -6,15 +6,11 @@
 $ phonegap create pushApp --id "com.fabulousu.pushdemo" --name "pushdemo" --template phonegap-template-push
 ```
 
-### android platform 추가하기
-```
-$ cordova platform add android
-```
-
 ### firebase 
-> firebase.google.com
+> http://firebase.google.com
+
 * 신규 프로젝트 생성
-* firebase app 추가
+* firebase android app 추가
 * firebase senderId 확인
 
 ### google-services.json 프로젝트 폴더에 넣기
@@ -25,3 +21,7 @@ config.xml
 www >> js >> index.js 
 
 
+### android platform 추가하기
+```
+$ cordova platform add android
+```
