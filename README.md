@@ -7,7 +7,7 @@ $ phonegap create pushApp --id "com.fabulousu.pushdemo" --name "pushdemo" --temp
 ```
 
 ### firebase 
-> http://firebase.google.com
+> https://console.firebase.google.com/
 
 * 신규 프로젝트 생성
 * firebase android app 추가
@@ -25,3 +25,4 @@ www >> js >> index.js
 ```
 $ cordova platform add android
 ```
+
