@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20522369309",
+    "firebase_url": "https://hybridapp-e7f62.firebaseio.com",
+    "project_id": "hybridapp-e7f62",
+    "storage_bucket": "hybridapp-e7f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20522369309:android:a8d45550f7cd223c",
+        "android_client_info": {
+          "package_name": "org.david.pushsampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20522369309-qg2oo8q8ur3admtrmave65956s11ltgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhBrLkBcwGE1RglHBQ19LLC4Koy3NgCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
